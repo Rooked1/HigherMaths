@@ -13,7 +13,8 @@ window.addEventListener("DOMContentLoaded", function() {
         "If &radic;(b&sup2;-4ac)<0 how many points or interaction are there between the curve and the line":"0",
         'What is it called when you divide (or factorise) a polynomial?' : "Synthetic division",
         ' If you were asked to show that (x-2) was a factor in a polynomial what number would be the divisor?':"2",
-        'next one here': 'yes here!'
+        'next one here': 'yes here!',
+        "bannana!!":"yeesss"
     }
     
     //count clicks and record in variable, use that variable to get object variable and put into element
