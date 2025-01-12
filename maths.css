@@ -1,0 +1,22 @@
+
+body{
+    background-color:rgba(128, 128, 128, 0.075)
+}
+
+h1{
+text-align:center;
+border-radius: 20px;
+border:solid;
+min-height: 35px;;
+background-color: white;
+}
+
+.row{
+    height:50px;
+}
+
+#quet,#ans{
+    border:dashed;
+    height:300px;
+    font-size:larger;
+}
